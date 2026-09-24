@@ -95,7 +95,7 @@ How to Run
 
 1. Clone the repository
 
-    git clone https://github.com/gagansingh2007/Blinkit-Sales-Analysis.git
+(https://github.com/bhuvnendra2007-max/Blinkit-Sales-Analysis-.git)
     cd Blinkit-Sales-Analysis
 
 2. Install dependencies
