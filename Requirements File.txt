@@ -1,0 +1,20 @@
+# Blinkit Sales Analysis - Python Dependencies
+# Python 3.10+ recommended
+#
+# Install all dependencies with:
+#     pip install -r requirements.txt
+#
+# For a reproducible environment, the versions below are tested-compatible
+# minimum versions rather than exact pins.
+
+# Data manipulation and analysis
+pandas>=2.0,<3.0
+
+# Numerical computing
+numpy>=1.24,<3.0
+
+# Data visualization and chart generation
+matplotlib>=3.7,<4.0
+
+# Excel (.xlsx) file reading/writing through pandas
+openpyxl>=3.1,<4.0
