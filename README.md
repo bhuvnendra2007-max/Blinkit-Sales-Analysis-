@@ -162,7 +162,4 @@ All transformations are implemented in blinkit_sales_analysis.py, so the
 analysis can be rerun whenever the source workbook is replaced or
 updated.
 
-Source
 
-Original repository:
-https://github.com/gagansingh2007/Blinkit-Sales-Analysis
